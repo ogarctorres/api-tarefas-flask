@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "titulo": "Estudar Flask",
+    "descricao": "Estudar completamente o Flask, assistindo aulas e praticando",
+    "concluida": false
+  },
+  {
+    "id": 2,
+    "titulo": "Fazer CRUD",
+    "descricao": "Fazer um CRUD completo utilizando Flask, com rotas para criar, ler, atualizar e deletar tarefas",
+    "concluida": false
+  },
+  {
+    "id": 3,
+    "titulo": "Escrever Teste",
+    "descricao": "Criar testes para o CRUD utilizando Python.",
+    "concluida": false
+  },
+  {
+    "id": 4,
+    "titulo": "Tarefa que vai persistir",
+    "concluida": false
+  },
+  {
+    "id": 5,
+    "titulo": "Nova Tarefa",
+    "concluida": false
+  }
+]
